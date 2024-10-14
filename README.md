@@ -25,7 +25,9 @@
   <img align="left" alt="Sumit | Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg" />
 </a>
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sumit-garg-637b22193/)
+<a href="https://www.linkedin.com/in/sumit-garg-637b22193/">
+  <img align="left" alt="Sumit | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />
+</a>
 
 <br />
 
