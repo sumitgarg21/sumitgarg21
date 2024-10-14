@@ -10,7 +10,7 @@
 
 -----
 
-[![Website](![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-red))](https://sumitgargportfolio.vercel.app)&nbsp;
+[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-red)](https://sumitgargportfolio.vercel.app)&nbsp;
 
 ### 👨🏻‍💻 &nbsp;About Me
 
