@@ -10,7 +10,7 @@
 
 -----
 
-[![Website](https://img.shields.io/badge/PORTFOLIO-Biju-orange)](https://biju-borah.github.io)![](https://komarev.com/ghpvc/?username=biju-borah&color=dc143c)[![GitHub avinash201199](https://img.shields.io/github/followers/biju-borah?label=follow&style=social)](https://github.com/avinash201199)&nbsp;
+[![Website](![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-red))](https://sumitgargportfolio.vercel.app)&nbsp;
 
 ### 👨🏻‍💻 &nbsp;About Me
 
