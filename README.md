@@ -26,7 +26,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/sumit-garg-637b22193/">
-  <img align="left" alt="Sumit | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />
+  <img align="left" alt="Sumit | LinkedIn" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />
 </a>
 
 <br />
