@@ -4,7 +4,7 @@
 
 <p align="center">
  
-![image](https://github.com/biju-borah/biju-borah/blob/master/Black%20Technology%20LinkedIn%20Banner.png?raw=true)
+![image](https://raw.githubusercontent.com/sumitgarg21/Sumit-Garg-github-profile/refs/heads/master/Black%20Technology%20LinkedIn%20Banner.png?token=GHSAT0AAAAAACYKAHUOH3CXIAUNQFSG55HOZYM2M3Q)
 
 </p>
 
